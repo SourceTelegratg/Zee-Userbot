@@ -1,9 +1,9 @@
 # Zed - UserBot
 # Copyright (c) 2022 Zee-Userbot
-# Credits: @Zed-Thon || https://github.com/Zed-Thon
+# Credits: @ALRADTHE || https://github.com/SourceTelegratg
 #
-# This file is a part of < https://github.com/Zed-Thon/Zee-Userbot/ >
-# t.me/ZedThon & t.me/zzzzl1l
+# This file is a part of < https://github.com/SourceTelegratg/Zee-Userbot/ >
+# t.me/ALRADTHEN & t.me/mndmhmm
 
 from base64 import b64decode
 
