@@ -1,8 +1,8 @@
 # Zed - UserBot
 # Copyright (c) 2022 Zee-Userbot
-# Credits: @Zed-Thon || https://github.com/Zed-Thon
+# Credits: @ALRADTHEN || https://github.com/SourceTelegratg
 #
-# This file is a part of < https://github.com/Zed-Thon/Zee-Userbot/ >
+# This file is a part of < https://github.com/SourceTelegratg/Zee-Userbot/ >
 # t.me/ZedThon & t.me/zzzzl1l
 
 import sys
