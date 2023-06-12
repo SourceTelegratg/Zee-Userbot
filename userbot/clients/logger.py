@@ -1,9 +1,9 @@
 # Zed - UserBot
 # Copyright (c) 2022 Zee-Userbot
-# Credits: @Zed-Thon || https://github.com/Zed-Thon
+# Credits: @ALRADTHEN || https://github.com/SourceTelegratg
 #
-# This file is a part of < https://github.com/Zed-Thon/Zee-Userbot/ >
-# t.me/ZedThon & t.me/zzzzl1l
+# This file is a part of < https://github.com/SourceTelegratg/Zee-Userbot/ >
+# t.me/ALRADTHEN & t.me/zzzzl1l
 
 import asyncio
 
@@ -16,7 +16,7 @@ from userbot import CMD_HANDLER as cmd
 from userbot import ZED2, ZED3, ZED4, ZED5, bot, branch, tgbot
 
 MSG_ON = """
-⚡ **تم تنصيب زدثـــون .. بنجـاح ✅**
+⚡ **تم تنصيب الرادثون .. بنجـاح ✅**
 ━━
 ➠ **اصـدار السـورس -** `{}@{}`
 ➠ **ارسـل** `{}فحص` **للتحقق من التنصيب**
